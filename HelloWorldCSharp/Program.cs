@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace HelloWorldApp
+namespace HelloWorldCSharp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello this big world!");
+            Console.WriteLine("C#\nHello World!");
+            Console.ReadKey();
         }
     }
 }
